@@ -22,11 +22,11 @@ function add2(n) {
 
 var funkyFunction = function() {
     
-    var funk = function() {
+     function funk() {
      return "FUNKY!";
-   };
+   }
    
-   return function funk;
+   return function funk();
    
 
 };
